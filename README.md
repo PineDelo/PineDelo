@@ -1,6 +1,6 @@
-## 🖥 Tech Stacks 🖥
+## 🖥  Tech Stacks  🖥
 
-<img alt="React" src="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/>
 <!--
 **PineDelo/PineDelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
